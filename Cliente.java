@@ -46,7 +46,7 @@ public class Cliente {
 	}
 	
 	public void visualizar() {
-		System.out.println("\n "+nomeCliente+ " tem " +idade+ " residente em " +endereço+ " que está no " +periodo+" do " +curso);
+		System.out.println("\n "+nomeCliente+ " tem " +idade+ " anos, residente em " +endereço+ " que está no " +periodo+" de " +curso);
 	}
 	
 
